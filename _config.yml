@@ -24,9 +24,9 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: profilekoi.png
 author: Divaldo Barros
-author_bio: Web developer? An anime addict? A video game enthusiast? A music curator? Who knows. just a jack of all trades. Born and raised in Angola, this man challenged the virtual world, and wants to conquer it, no matter what. 
+author_bio: Web developer? An anime addict? A video game enthusiast? A music curator? Just a jack of all trades. Born and raised in Angola, this man challenged the virtual world, and wants to conquer it, no matter what. 
 author_email: "di.pabarros@gmail.com"
 author_location: Portugal
 author_website_url: ""
