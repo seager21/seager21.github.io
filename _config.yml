@@ -30,31 +30,43 @@ author_bio: Web developer? An anime addict? A video game enthusiast? A music cur
 author_email: "di.pabarros@gmail.com"
 author_location: Portugal
 author_website_url: ""
-typewrite-text: Welcome to my domain. Feel free to check my experience, or my blog section where I talk about coding, anime, music, and/or some stuff that I enjoy
+typewrite-text: A Jack of many talents. Fullstack Web developer, Fitness Coach, Record Producer and mythologies enthusiast.
 hero_cover_img: coverino.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Informantem (now Bravantic)
-              company_logo: google.png
-              company_url: https://bravantic.com
-              designation: Front End Developer
-              description: Worked as a Junior Web Developer.
-              visibility: true
             - company_name: Winprovit
               company_logo: microsoft.png
               company_url: https://www.winprovit.pt
               designation: IT Specialist
               description: Worked as a service desk tecnician
               visibility: true
+            - company_name: Informantem (now Bravantic)
+              company_logo: google.png
+              company_url: https://bravantic.com
+              designation: Front End Developer
+              description: Worked as a Junior Web Developer, managed multiple web projects, and company & client's websites
+              visibility: true
+            - company_name: IntelliOffice
+              company_logo: microsoft.png
+              company_url: https://www.winprovit.pt
+              designation: Junior Web Development
+              description: Worked as a junior web developer
+              visibility: true
+            - company_name: Freelancer
+              company_logo: microsoft.png
+              company_url: https://www.instagram.com/the.karpa
+              designation: Freelance Full Stack Developer
+              description: Worked/Still Working as a freelance web developer, mobile and web app developer.
+              visibility: true
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: IADE - Creative University
                 college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: Computer Engineering
+                description: Bachelor in Computer Management
                 visibility: true
 
 # Projects
