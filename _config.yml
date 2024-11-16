@@ -29,29 +29,29 @@ author: Divaldo Barros
 author_bio: Web developer? An anime addict? A video game enthusiast? A music curator? Just a jack of all trades. Born and raised in Angola, this man challenged the virtual world, and wants to conquer it, no matter what. 
 author_email: "di.pabarros@gmail.com"
 author_location: Portugal
-author_website_url: ""
-typewrite-text: A Jack of many talents. Fullstack Web developer, Fitness Coach, Record Producer and mythologies enthusiast.
+author_website_url: "seager21.github.io"
+typewrite-text: A Jack of many talents. Fullstack developer, Web developer, Fitness Coach, Record Producer. 
 hero_cover_img: coverino.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
             - company_name: Winprovit
-              company_logo: microsoft.png
+              company_logo: winprovit.png
               company_url: https://www.winprovit.pt
               designation: IT Specialist
-              description: Worked as a service desk tecnician
+              description: Worked as a service desk tecnician.
               visibility: true
             - company_name: Informantem (now Bravantic)
-              company_logo: google.png
+              company_logo: informantem.png
               company_url: https://bravantic.com
               designation: Front End Developer
-              description: Worked as a Junior Web Developer, managed multiple web projects, and company & client's websites
+              description: Worked as a Junior Web Developer, managed multiple web projects, and company & client's websites.
               visibility: true
             - company_name: IntelliOffice
-              company_logo: microsoft.png
+              company_logo: intelioffice.png
               company_url: https://www.winprovit.pt
               designation: Junior Web Development
-              description: Worked as a junior web developer
+              description: Worked as a junior web developer.
               visibility: true
             - company_name: Freelancer
               company_logo: microsoft.png
@@ -62,11 +62,17 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: iade.png
                 college_name: IADE - Creative University
-                college_url: https://mit.org
+                college_url: https://www.iade.europeia.pt
                 college_degree: Computer Engineering
-                description: Bachelor in Computer Management
+                description: Bachelor in IT Management
+                visibility: true
+                - college_logo: europeia.png
+                college_name: Universidade Europeia
+                college_url: https://www.europeia.pt
+                college_degree: Information, Systems, Technology and Programming
+                description: Techical Specialization Course
                 visibility: true
 
 # Projects
@@ -76,10 +82,27 @@ author_project_details:
                 project_description: An e-commerce website, focused on selling streetwear and accessories.
                 project_url: https://monfortbyjc.com
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: kubinga.png
+                project_title: Kubinga Landing Page
+                project_description: Landing page for a plaform for booking taxis and tracking.
+                project_url: https://kubinga.com
+                visibility: true
+                - project_thumbnail: password.png
+                project_title: Password Generator
+                project_description: A web app that generates 8, 12, 24, 36-digit passwords.
+                visibility: true
+                - project_thumbnail: mercadobrpt.png
+                project_title: Mercado Brasil Portugal (now Mais Brasil Mercado)
+                project_description: An e-commerce website, focused on selling brazilian consumables in Portugal.
+                project_url: https://maisbrasilmercado.com/
+                visibility: true
+                - project_thumbnail: activity.png
+                project_title: User Activity Tracker App
+                project_description: A web application that tracks user activity, logs, alterations.
+                visibility: true
+                - project_thumbnail: ebook.png
+                project_title: E-Book Storage
+                project_description: An E-book storage website that stores university PDF e-books, using cloud computing and storage
                 visibility: true
 
 # social links
