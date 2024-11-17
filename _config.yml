@@ -87,20 +87,20 @@ author_project_details:
                 project_description: Landing page for a plaform for booking taxis and tracking.
                 project_url: https://kubinga.com
                 visibility: true
-                - project_thumbnail: password.png
+              - project_thumbnail: password.png
                 project_title: Password Generator
                 project_description: A web app that generates 8, 12, 24, 36-digit passwords.
                 visibility: true
-                - project_thumbnail: mercadobrpt.png
+              - project_thumbnail: mercadobrpt.png
                 project_title: Mercado Brasil Portugal (now Mais Brasil Mercado)
                 project_description: An e-commerce website, focused on selling brazilian consumables in Portugal.
                 project_url: https://maisbrasilmercado.com/
                 visibility: true
-                - project_thumbnail: activity.png
+              - project_thumbnail: activity.png
                 project_title: User Activity Tracker App
                 project_description: A web application that tracks user activity, logs, alterations.
                 visibility: true
-                - project_thumbnail: ebook.png
+              - project_thumbnail: ebook.png
                 project_title: E-Book Storage
                 project_description: An E-book storage website that stores university PDF e-books, using cloud computing and storage
                 visibility: true
