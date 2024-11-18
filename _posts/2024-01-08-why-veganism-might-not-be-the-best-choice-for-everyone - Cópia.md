@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Veganism Might Not Be the Best Choice for Everyone"
-summary: "Getting Started using devlopr-jekyll"
+summary: "Veganism is totally alright, but..."
 author: seager
 date: '2024-01-08 14:35:23 +0530'
 category: fitness&health
@@ -10,6 +10,8 @@ keywords: veganism, wrong, fitness, health, body, mind
 permalink: /blog/why-veganism-might-not-be-the-best-choice-for-everyone/
 usemathjax: true
 ---
+Alright, so, I'm very strick with my diet, and I'm a very big meat eater. I think its natural properties are very valuable to me, because of my boxing and bodybuilding, but I also know its down properties, the market surrounding it all.
+
 Veganism, the practice of abstaining from animal products, has gained significant popularity for ethical, environmental, and health reasons. However, it's not without its challenges. For some people, veganism may not be the ideal lifestyle choice due to various factors. Here's a closer look at why veganism may not work for everyone.
 
 ---
