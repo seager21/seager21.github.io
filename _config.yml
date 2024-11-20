@@ -35,23 +35,23 @@ hero_cover_img: coverino.jpg # replace this for changing homepage cover (eg. try
 
 # Experiences
 author_work_experiences:
-            - company_name: Winprovit
+            - company_name: Winprovit / RTP (Rádio e Televisão de Portugal)
               company_logo: winprovit.png
               company_url: https://www.winprovit.pt
               designation: IT Specialist
-              description: Worked as a service desk tecnician.
+              description: Worked as a service desk tecnician for RTP.
               visibility: true
             - company_name: Informantem (now Bravantic)
               company_logo: informantem.png
               company_url: https://bravantic.com
               designation: Front End Developer
-              description: Worked as a Junior Web Developer, managed multiple web projects, and company & client's websites.
+              description: Worked as a Web Developer, managed multiple web projects, and company & client's websites.
               visibility: true
             - company_name: IntelliOffice
               company_logo: intelioffice.png
               company_url: https://www.winprovit.pt
               designation: Junior Web Development
-              description: Worked as a junior web developer.
+              description: Worked as a junior web developer, hosting projects and company web management.
               visibility: true
             - company_name: Freelancer
               company_logo: microsoft.png
@@ -62,6 +62,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
+                - college_logo: iade.png
+                college_name: IADE - Creative University
+                college_url: https://www.iade.europeia.pt
+                college_degree: Computer Engineering
+                description: Masters in Systems Development & Web Applications
               - college_logo: iade.png
                 college_name: IADE - Creative University
                 college_url: https://www.iade.europeia.pt
