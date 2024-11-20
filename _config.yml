@@ -62,7 +62,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-                - college_logo: iade.png
+              - college_logo: iade.png
                 college_name: IADE - Creative University
                 college_url: https://www.iade.europeia.pt
                 college_degree: Computer Engineering
