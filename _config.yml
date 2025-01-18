@@ -82,6 +82,16 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: logo_premiumminds.png
+                project_title: Premium Minds Challenge Website
+                project_description: A website, with back-end stacks disabled, using HTML, CSS, Tailwind CSS, DaisyUI, Javascript.
+                project_url: https://github.com/seager21/Premium-Minds-Challenge
+                visibility: true  
+              - project_thumbnail: logo_wyperformance.png
+                project_title: WY Performance Home Page Theme
+                project_description: Interative WordPress theme using ACF, BootStrap 4, HTML, CSS, JavaScript, PHP.
+                project_url: https://github.com/seager21/wpchallenge
+                visibility: true 
               - project_thumbnail: logo_monfort.png
                 project_title: Monfort By JC
                 project_description: An e-commerce website, focused on selling streetwear and accessories.
