@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "MEAN Stack vs MERN Stack"
-summary: "WINTER ARC"
+summary: "The Same? Different?"
 author: seager
 date: '2024-09-18 19:03:23 +0530'
 category: fitness&health
 thumbnail: /assets/img/posts/meanmern.jpg
 keywords: veganism, wrong, fitness, health, body, mind
-permalink: /blog/winter-is-coming-let-bulk/
+permalink: /blog/mean-stack-vs-mern-stack/
 usemathjax: true
 ---
 # Comparing MEAN and MERN Stacks
